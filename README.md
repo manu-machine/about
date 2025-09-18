@@ -2,9 +2,9 @@ manu s. sundaresan
 ============
 
 -------------------     ----------------------------
-11 university pl.         manu.sundaresan@yale.edu
-new haven, ct 06511            (202) 817-5056
-united states                          
+11 university pl.           manu.sundaresan@yale.edu  
+new haven, ct 06511              (202) 817-5056
+united states                           
 -------------------     ----------------------------
 
 education
