@@ -1,24 +1,23 @@
 manu s. sundaresan
 ============
 
--------------------
-11 university pl.           
+_11 university pl.           
 new haven, ct 06511  
-united states 
-manu.sundaresan@yale.edu  
-(202) 817-5056
--------------------
+united states_  
+  
+_manu.sundaresan@yale.edu  
+(202) 817-5056_
 
 education
 ---------
 
 2025-present
-:   **md-phd program**; yale university (new haven, ct)
+>   **md-phd program**; yale university (new haven, ct)
 
     *yale school of medicine (md), yale graduate school of arts and sciences, department of sociology (phd)*
 
 2020-2024
-:   **ba, bs**; university of chicago (chicago, il)
+>   **ba, bs**; university of chicago (chicago, il)
 
     *philosophy and medical ethics (ba, with honors), biological sciences (bs, with honors)*
 
@@ -38,8 +37,11 @@ publications
 awards, fellowships
 --------------------
 Solomon Center for Health Law and Policy, 2025-2026 Research Fellow  
+  
 Wiesel Prize in Ethics, First Place  
+  
 John Crerar Foundation Science Writing Prize for College Students (First Place)  
+  
 Chas & Lilas Crothers Scholarship  
 
 
