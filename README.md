@@ -12,14 +12,14 @@ education
 ---------
 
 2025-present
->   **md-phd program**; yale university (new haven, ct)
+   **md-phd program**; yale university (new haven, ct)
 
-    *yale school of medicine (md), yale graduate school of arts and sciences, department of sociology (phd)*
+>    *yale school of medicine (md), yale graduate school of arts and sciences, department of sociology (phd)*
 
 2020-2024
->   **ba, bs**; university of chicago (chicago, il)
+   **ba, bs**; university of chicago (chicago, il)
 
-    *philosophy and medical ethics (ba, with honors), biological sciences (bs, with honors)*
+>    *philosophy and medical ethics (ba, with honors), biological sciences (bs, with honors)*
 
 publications
 ----------
