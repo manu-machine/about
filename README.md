@@ -1,93 +1,64 @@
-Johnny Coder
+manu s. sundaresan
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+11 university pl.         manu.sundaresan@yale.edu
+new haven, ct 06511            (202) 817-5056
+united states                          
 -------------------     ----------------------------
 
-Education
+education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2025-present
+:   **md-phd program**; yale university (new haven, ct)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *yale school of medicine (md), yale graduate school of arts and sciences, department of sociology (phd)*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2020-2024
+:   **ba, bs**; university of chicago (chicago, il)
 
-    *Minor: Awesomeology*
+    *philosophy and medical ethics (ba, with honors), biological sciences (bs, with honors)*
 
-Experience
+publications
 ----------
 
-**Your Most Recent Work Experience:**
+* Pomper N and Sundaresan MS*. Prison Healthcare and Other Paradoxes. Under review.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Mishra V, et al. PRMT5 inhibition has a potent anti-tumor activity against adenoid cystic carcinoma of salivary glands. J Exp Clin Cancer Res. 2025 Jan 11;44(1):11. doi:10.1186/s13046-024-03270-x.
 
-* First item
+* Noohi F, Sundaresan MS, Naylor RN, Ross LF. Investigator and participant expectations for returning non-genetic results: insights from the Rare and Atypical Diabetes Network (RADIANT) study. J Clin Transl Sci. 2023;7(1):e260. doi:10.1017/cts.2023.684
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Williams WA, Sundaresan MS, Ross LF. Representation of Women in Published Articles at 3 Academic Pediatric Journals: 2001 to 2022. Pediatrics. 2023;152(4):e2023062576. doi:10.1542/peds.2023-062576
+  
+* Noohi F, Sundaresan MS, Naylor RN, Ross LF. Diagnosis, treatment and disclosure: A qualitative exploration of participant challenges in a Monogenic Diabetes Registry. Genet Med. 2023;25(4):100019. doi:10.1016/j.gim.2023.100019 
 
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
+awards, fellowships
 --------------------
+Solomon Center for Health Law and Policy, 2025-2026 Research Fellow  
+Wiesel Prize in Ethics, First Place  
+John Crerar Foundation Science Writing Prize for College Students (First Place)  
+Chas & Lilas Crothers Scholarship  
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+research, work experience
+--------------------
+2024-2025  
+Center for Appellate Litigation  
+Survivors Advocacy Practice Paralegal and Client Advocate
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+2022-2024  
+University of Chicago Department of Medicine, Kovler Diabetes Center  
+Research Assistant
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+2021-2024  
+University of Chicago Department of Medicine, Izumchenko Lab
+Research Assistant
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+2023-2024  
+Recovery Legal Care  
+Screening Intern and Research Assistant  
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+2022-2024  
+University of Chicago Department of Sociology  
+Research Assistant
